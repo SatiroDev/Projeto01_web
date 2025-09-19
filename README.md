@@ -23,6 +23,6 @@ Este projeto tem como objetivo desenvolver uma aplicação web simples utilizand
 
 ```bash
 Projeto01_web/
-  ├── index.html
-  └── README.md
+  ├── README.md
+  └── index.html
 ```
